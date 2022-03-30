@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc42ca69-5212-ca47-de91-2b6d88ba4f99
 resourcetype: Image
 title: sugita_fig3a,b.jpg
 uid: 1c043ccb-9268-8dfe-59bd-e1ac741817a1
